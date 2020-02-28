@@ -1,0 +1,21 @@
+body{
+
+    margin: 200;
+    font-family: "Times New Roman", Times, serif;
+
+}
+
+table{
+    border-collapse: collapse;
+}
+
+table, th, td{
+
+    boarder: 1px solid black;
+
+}
+
+div {
+    text-align:center;
+}
+
